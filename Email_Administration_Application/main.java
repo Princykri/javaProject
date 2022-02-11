@@ -44,7 +44,7 @@ public class main {
                     System.out.println("Invalid Choice \n  Plz check it and try again ");
             }
 
-        }while(choice!=5);
+        }while(choice!=7);
 
     }
 }
