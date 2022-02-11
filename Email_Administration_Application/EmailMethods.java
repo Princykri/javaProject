@@ -94,7 +94,7 @@ public class EmailMethods {
 
                } else if(choice =='N' || choice=='n'){
                    flag =true;
-                   System.out.println("Passport changed option got canceled ");
+                   System.out.println("Password changed option got canceled ");
                } else{
                    System.out.println("enter valid choice");
                }
